@@ -16,5 +16,4 @@ print(list)
 #   Remove All items from list. 
 list=[1,2,3,4,5]
 list.clear()
-
-make='true'
+print(list)
