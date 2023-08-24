@@ -12,5 +12,5 @@ print(copy)
 copy = list[:]
 print(copy)
 
-copy = list[1:3]
+copy = list[1:3] #index 1이상, 3 미만
 print(copy)

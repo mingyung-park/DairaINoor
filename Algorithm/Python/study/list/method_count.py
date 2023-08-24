@@ -5,4 +5,4 @@
 #8: count(x)
 #   return the number of timens x appears in the list
 list = [1,2,3,4,5]
-print(list.count(1)) 
+print(list.count(1))
