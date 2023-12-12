@@ -3,7 +3,7 @@ This project is a personal endeavor with the goal of reaching Diamond 1 tier in 
 
 ## Project
 
-The main objective is to enhance programming skills through algorithmic problem-solving and achieve a high tier in the Baekjoon Online Judge platform.
+The main objective is to enhance programming skills through algorithmic problem-solving and achieve  Diamond 1 tier in the Baekjoon Online Judge platform.
 <br/>
 
 ### Language
