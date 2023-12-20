@@ -11,7 +11,6 @@ visited[n]=1
 def dfs(dq,k):
     next_dq=deque()
     check = 0
-    print(dq)
     while dq:
         now = dq.popleft()
 
@@ -37,5 +36,5 @@ else:
         else:
             break
 
-print(time)
-print(count)
+    print(time)
+    print(count)
