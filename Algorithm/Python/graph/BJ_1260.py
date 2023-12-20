@@ -28,7 +28,7 @@ for i in range(m):
     node[s].append(e)
     node[e].append(s)
 
-for i in range(m):
+for i in range(n+1):
     node[i].sort()
 
 dfs(node,v)
