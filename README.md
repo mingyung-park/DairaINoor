@@ -1,5 +1,5 @@
 # 💎 Daira i Noor 
-This project is a personal endeavor with the goal of reaching tier **Diamond 1** in Baekjoon Algorithm.✨
+This project is a personal endeavor with the goal of reaching tier ${\color{#6580DD}Diamond\ 1}$ in Baekjoon Algorithm.✨
 
 ## Project
 
