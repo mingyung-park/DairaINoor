@@ -16,3 +16,11 @@ The main objective is to enhance programming skills through algorithmic problem-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kateking001130)](https://solved.ac/kateking001130/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kateking001130&theme=dark)
+
+---
+
+### 🥾 History
+
+|DATE|TIER|
+|------|---|
+|2023-12-19 12:55 PM|Gold 4|
