@@ -18,9 +18,3 @@ The main objective is to enhance programming skills through algorithmic problem-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kateking001130&theme=dark)
 
 ---
-
-### 🥾 History
-
-|DATE|TIER|
-|------|---|
-|2023-12-19 12:55 PM|Gold 4|
